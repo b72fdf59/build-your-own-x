@@ -8,3 +8,5 @@ description = "wget clone in rust"
 
 [dependencies]
 clap = { version = "4.3.19", features = ["derive"] }
+console = "0.15.7"
+indicatif = "0.17.6"
